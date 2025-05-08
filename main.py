@@ -6,6 +6,7 @@ from google_auth_oauthlib.flow import InstalledAppFlow
 from google.auth.transport.requests import Request
 from googleapiclient.discovery import build
 from dotenv import load_dotenv
+import time
 
 # Load environment variables from .env file
 load_dotenv()
@@ -232,5 +233,8 @@ def process_inbox():
 
 if __name__ == '__main__':
     print("Starting Gmail Auto-Archiver...")
-    process_inbox()
-    print("Gmail Auto-Archiver finished.") 
+    while True:
+        process_inbox()
+        print("Waiting for 5 minutes before the next run...")
+        time.sleep(300) # Wait for 300 seconds (5 minutes)
+    # print("Gmail Auto-Archiver finished.") # This line is no longer reached 
