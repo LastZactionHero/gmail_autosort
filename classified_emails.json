@@ -1,0 +1,205 @@
+[
+  {
+    "subject": "CORVIDAE STATUS CHECK ERROR",
+    "sender": "zdicklin@gmail.com",
+    "body_snippet": "Error checking Corvidae status: Exception: Request failed for http://140.82.8.182:8080 returned code",
+    "reason": "This is a status update from a broken cryptobot service. Archive it.",
+    "action": "archive"
+  },
+  {
+    "subject": "Jahna and other neighbors are planning to attend Beginners to Experienced,...",
+    "sender": "Weekend Events in Cherrywood Park <no-reply@rs.email.nextdoor.com>",
+    "body_snippet": "See 7 local events happening this weekend                             ",
+    "reason": "Nextdoor spam, never reading this",
+    "action": "archive"
+  },
+  {
+    "subject": "You have a new explanation of benefits",
+    "sender": "Anthem Blue Cross Communications <DoNotReply-MemberComm@email.anthem.com>",
+    "body_snippet": "Log in to review your claims details. View email in a browser Anthem Blue Cross Log in to see your e",
+    "reason": "Infomation from my healthcare provider on a recent visit. Worth reviewing, keep it",
+    "action": "inbox"
+  },
+  {
+    "subject": "BAM Loveland 7th Anniversary Sale...",
+    "sender": "\"Bricks & Minifigs NoCo\" <info@bricksandminifigs.com>",
+    "body_snippet": "Celebrate 7 years with us BAM Loveland 7th Anniversary Celebration Sale So much fun is in store for",
+    "reason": "Promotional email from a local Lego store. Spam, archive it",
+    "action": "archive"
+  },
+  {
+    "subject": "2025 Peak to Peak Election",
+    "sender": "Peak to Peak Charter School <vote@simplyvoting.com>",
+    "body_snippet": "Hello Dicklin, Zachary, You are registered to vote in 2025 Peak to Peak Election. This ballot ends o",
+    "reason": "Notice from my son's elementary school. Worth reviewing, keep it.",
+    "action": "inbox"
+  },
+  {
+    "subject": "CORVIDAE STATUS CHECK ERROR",
+    "sender": "zdicklin@gmail.com",
+    "body_snippet": "Error checking Corvidae status: Exception: Request failed for http://140.82.8.182:8080 returned code",
+    "reason": "This is a status update from a broken cryptobot service. Archive it.",
+    "action": "archive"
+  },
+  {
+    "subject": "Jahna and other neighbors are planning to attend Beginners to Experienced,...",
+    "sender": "Weekend Events in Cherrywood Park <no-reply@rs.email.nextdoor.com>",
+    "body_snippet": "See 7 local events happening this weekend                             ",
+    "reason": "Nextdoor spam, never reading this",
+    "action": "archive"
+  },
+  {
+    "subject": "You have a new explanation of benefits",
+    "sender": "Anthem Blue Cross Communications <DoNotReply-MemberComm@email.anthem.com>",
+    "body_snippet": "Log in to review your claims details. View email in a browser Anthem Blue Cross Log in to see your e",
+    "reason": "Infomation from my healthcare provider on a recent visit. Worth reviewing, keep it",
+    "action": "inbox"
+  },
+  {
+    "subject": "BAM Loveland 7th Anniversary Sale...",
+    "sender": "\"Bricks & Minifigs NoCo\" <info@bricksandminifigs.com>",
+    "body_snippet": "Celebrate 7 years with us BAM Loveland 7th Anniversary Celebration Sale So much fun is in store for",
+    "reason": "Promotional email from a local Lego store. Spam, archive it",
+    "action": "archive"
+  },
+  {
+    "subject": "2025 Peak to Peak Election",
+    "sender": "Peak to Peak Charter School <vote@simplyvoting.com>",
+    "body_snippet": "Hello Dicklin, Zachary, You are registered to vote in 2025 Peak to Peak Election. This ballot ends o",
+    "reason": "Notice from my son's elementary school. Worth reviewing, keep it.",
+    "action": "inbox"
+  },
+  {
+    "subject": "Picked just for you ",
+    "sender": "Shop <noreply@shop.app>",
+    "body_snippet": "Fresh finds                              ",
+    "reason": "Promotional email from Shopify, archive it",
+    "action": "archive"
+  },
+  {
+    "subject": "Daily papers of 7 May 2025",
+    "sender": "huggingface <daily_papers_digest@notifications.huggingface.co>",
+    "body_snippet": "Daily Papers by AK and the AI research community Here is the selection of papers for today (7 May): ",
+    "reason": "Newsletter from Huggingface that I subscribed to, keep it",
+    "action": "inbox"
+  },
+  {
+    "subject": "Notes from your visit at Boulder Valley Foot & Ankle Clinic, are now available",
+    "sender": "\"Boulder Valley Foot & Ankle Clinic,\" <noreply@patient-message.com>",
+    "body_snippet": "Can&#39;t remember everything your provider said? Boulder Valley Foot &amp; Ankle Clinic, Zach, we t",
+    "reason": "Update from a recent visit to a doctor, keep it for review",
+    "action": "inbox"
+  },
+  {
+    "subject": "Your test results are available",
+    "sender": "\"Boulder Valley Foot & Ankle Clinic\" <noreply@patient-message.com>",
+    "body_snippet": "View the results of recent tests for Zach Boulder Valley Foot &amp; Ankle Clinic Zach, you have new ",
+    "reason": "A medical update from a recent doctor visit, kee pit",
+    "action": "inbox"
+  },
+  {
+    "subject": "The Birds  and The Bees ",
+    "sender": "PrettyLitter <prettylitter@mail.prettylitter.com>",
+    "body_snippet": "+ The best way to get FREE PrettyLitter                               ",
+    "reason": "Promotional email from a cat litter company, not related to a recent order. Archive it",
+    "action": "archive"
+  },
+  {
+    "subject": "BeeChicas Present - Love all BUGS! with Dr. Samuel Ramsey",
+    "sender": "Boulder Public Library District <newsletter@boulderlibrary.org>",
+    "body_snippet": "Boulder Public Library District BeeChicas Present Love all BUGS! with Dr. Samuel Ramsey Explore bugs",
+    "reason": "Promotinal email from the library, not related to a recent check out. Archive it",
+    "action": "archive"
+  },
+  {
+    "subject": "We want to hear from you",
+    "sender": "Impact on Education <c.abillings@bvsd.org>",
+    "body_snippet": "Dear BVSD parents, Did you know there&#39;s a nonprofit foundation dedicated to supporting BVSD stud",
+    "reason": "Survey from my son's school district. It's not really related to his specific school or class details, so archive it",
+    "action": "archive"
+  },
+  {
+    "subject": "Your Upcoming Concert Lineup: MSPAINT, John Garcia, Kublai Khan TX",
+    "sender": "Live Nation Concerts <reply@email.livenation.com>",
+    "body_snippet": "Check Out Events in Your Area Happening Soon JUST ANNOUNCED MSPAINT MSPAINT Fri, Aug 1 Marquis GET T",
+    "reason": "Promotinal email from a ticket company, not related to a show I have tickets for. Archive it",
+    "action": "archive"
+  },
+  {
+    "subject": "Confirmation of your order 35714214 from Mouser Electronics, Inc.",
+    "sender": "Mouser Order Update <orders@mouser.com>",
+    "body_snippet": "Order Confirmation Purchase Order Number : 35714214 Web Order Number : 35714214 Contact Name : ZACH ",
+    "reason": "An email from Mouser about a recent order I'm expecting. Keep it.",
+    "action": "inbox"
+  },
+  {
+    "subject": "Mouser Electronics Order Confirmation",
+    "sender": "Mouser Electronics <orders@t.mouser.com>",
+    "body_snippet": "View Online Mouser Electronics The Newest Products for Your Newest Designs  Your Order Has Been Rec",
+    "reason": "And update from Mouser about a recent order I'm expecting. Keep it.",
+    "action": "inbox"
+  },
+  {
+    "subject": "Introducing web search on the Anthropic API",
+    "sender": "Anthropic Team <team@email.anthropic.com>",
+    "body_snippet": "Today, we&#39;re introducing web search on the Anthropic API new tool that augments Claude&#39;s c",
+    "reason": "Promotinal email from Anthropic, but I kind of like hearing from them. Keep it.",
+    "action": "inbox"
+  },
+  {
+    "subject": "ACTION REQUIRED: Your refill request was not approved by the prescriber",
+    "sender": "Walgreens <donotreply@rxorder.walgreens.com>",
+    "body_snippet": "We apologize for the inconvenience. Your refill request was not approved. Please contact your prescr",
+    "reason": "An email from Walgreens about a prescription problem. Keep it, this is something I need to act on",
+    "action": "inbox"
+  },
+  {
+    "subject": "Don Miss Out: Dave Meyer's Webinar Kicks Off Today",
+    "sender": "BiggerPockets <info@m.biggerpockets.com>",
+    "body_snippet": "Discover how to spot profitable properties in any market and free.          ",
+    "reason": "A promotional email from... no idea. Archive it.",
+    "action": "archive"
+  },
+  {
+    "subject": "James, Stop Light Observations, Nether Hour, Rose City Band, Steel Pulse, The Red Jumpsuit Apparatus, Colorado Springsteen & More",
+    "sender": "\"Z2 Entertainment: Fox Theatre & Boulder Theater\" <newsletter@mail.z2ent.com>",
+    "body_snippet": " Don&#39;t miss these shows!                                   ",
+    "reason": "A promotional email from a concert venue, not related to a show I'm seeing. Archive it",
+    "action": "archive"
+  },
+  {
+    "subject": "Stay connected during wildfire season.",
+    "sender": "Xfinity <xfinity@updates.xfinity.com>",
+    "body_snippet": "Find out how to get updates and stay online. Xfinity Logo We&#39;ve got your back, no matter the wea",
+    "reason": "A promotional email from Xfinity, not directly related to my service. Archive it",
+    "action": "archive"
+  },
+  {
+    "subject": "Social media trend - laptop fires",
+    "sender": "BVSD Communications <communications@bvsd.org>",
+    "body_snippet": "Dear BVSD Families and Staff, Recently, the Boulder Valley School District has experienced six fires",
+    "reason": "An update email from BVSD, my son's school district. I usually ignore these, but this seems sort of interesting. Keep it.",
+    "action": "inbox"
+  },
+  {
+    "subject": "UPS Update: Package Scheduled for Delivery Tomorrow",
+    "sender": "UPS <mcinfo@ups.com>",
+    "body_snippet": "UPS Hi Zach, Your package is arriving tomorrow. From JIALICHUANG (HONGKONG) CO., LIMITED Scheduled D",
+    "reason": "Details about a package I'm expecting. Keep it",
+    "action": "inbox"
+  },
+  {
+    "subject": "Special Education Parent/Community News  May 2025",
+    "sender": "\"anna.stewart@bvsd.org\" <noreply@bvsdorg.myenotice.com>",
+    "body_snippet": "May 2025 Special Education Parent/Community Newsletter Bolet de Educaci Especial Para Padres/Com",
+    "reason": "An email from my sons school district. Not directly related to my son's school or class logistics, archive it.",
+    "action": "archive"
+  },
+  {
+    "subject": "From Dr. Jackie Schafer",
+    "sender": "\"Dr. Jackie Schafer\" <healthy_smiles2_6169.sr@e.smilereminder.com>",
+    "body_snippet": "Zach, It was great seeing you at your last appointment. Our mission is to provide you with the absol",
+    "reason": "A follow up email from my dentist. Not related to an upcoming appointment, mostly promotional and nothing to act on. Archive it.",
+    "action": "archive"
+  }
+]
